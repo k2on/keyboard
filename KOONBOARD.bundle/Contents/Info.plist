@@ -5,15 +5,17 @@
 	<key>CFBundleIdentifier</key>
 	<string>org.sil.ukelele.keyboardlayout.dvorak</string>
 	<key>CFBundleName</key>
-	<string>Programmer Dvorak</string>
+	<string>KOONBOARD</string>
 	<key>CFBundleVersion</key>
 	<string>1</string>
-	<key>KLInfo_Programmer Dvorak</key>
+	<key>KLInfo_KOONBOARD</key>
 	<dict>
 		<key>TICapsLockLanguageSwitchCapable</key>
 		<false/>
+		<key>TISIconIsTemplate</key>
+		<false/>
 		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout.dvorak.programmerdvorak</string>
+		<string>org.sil.ukelele.keyboardlayout.dvorak.koonboard</string>
 		<key>TISIntendedLanguage</key>
 		<string>en-US</string>
 	</dict>

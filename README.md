@@ -1,10 +1,20 @@
-Programmer Dvorak
-=================
+# KOONBOARD
 
-A keyboard layout to embody Programmer Dvorak <https://www.kaufmann.no/roland/dvorak/> for MacOS.
+<img alt="normal map" src="https://i.imgur.com/N3qwZ9Z.png"/>
 
-Programmer Dvorak project file is in [Ukelele](https://software.sil.org/ukelele/) format, where you can modify the layout as you please.
+Modified [Programmer Dvorak](https://github.com/jayliu50/macos-programmer-dvorak) keyboard for MacOS.
 
-One feature of this particular format is that turning on CAPS lock will temporarily change the number row back to "normal", which I've found useful to enter in PINs, etc..
+Project file is in [Ukelele](https://software.sil.org/ukelele/) format, where you can modify the layout as you please.
 
-See also <https://github.com/jayliu50/windows-programmer-dvorak> for a sister project for Windows.
+This repo is a fork of [jayliu50/macos-programmer-dvorak](https://github.com/jayliu50/macos-programmer-dvorak).
+
+## Shift Map
+
+<img alt="shift map" src="https://i.imgur.com/iJwl01S.png"/>
+
+## Modifications to Programmer Dvorak
+
+1. The number keys are in order.
+2. Dedicated key for `->`
+3. Shift + `->` = `lambda`
+
